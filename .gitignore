@@ -1,3 +1,7 @@
+# Don't send my settings!
+.vscode
+.vscode/*
+
 # Prerequisites
 *.d
 
