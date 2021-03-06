@@ -1,2 +1,2 @@
 # caliente
-A compiled, easy to learn programming language.
+A concise, easy to learn interpreted programming language.
