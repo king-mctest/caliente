@@ -1,2 +1,2 @@
 # Caliente
-A concise, easy to learn interpreted programming language.
+A compiled, easy to learn programming language.
